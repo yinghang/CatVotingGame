@@ -31,4 +31,5 @@ module.exports = function(app){
     // Parse POST request data. It will be available in the req.body object
     app.use(express.urlencoded());
 
+    app.enable('trust proxy');
 };
