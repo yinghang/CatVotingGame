@@ -9,3 +9,6 @@
 {"name":"10.jpg","likes":0,"dislikes":0,"_id":"nUfZWCqT0aF3oelW"}
 {"name":"09.jpg","likes":0,"dislikes":0,"_id":"nzn7FqhB2q8qf6un"}
 {"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
+{"name":"06.jpg","likes":1,"dislikes":0,"_id":"esMwtwO2YvKtkadl"}
+{"name":"05.jpg","likes":1,"dislikes":0,"_id":"mpZJoiewyHb9S8E1"}
+{"name":"10.jpg","likes":1,"dislikes":0,"_id":"nUfZWCqT0aF3oelW"}
