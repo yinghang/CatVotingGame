@@ -1,5 +1,2 @@
-{"ip":"127.0.0.1","votes":["eqbpZXRM1aTyEuRx","gGJGnotM5CGSzOP6"],"_id":"CiRN2Cw3Fkrpxl2J"}
-{"$$indexCreated":{"fieldName":"ip","unique":true,"sparse":false}}
-{"ip":"127.0.0.1","votes":["eqbpZXRM1aTyEuRx","gGJGnotM5CGSzOP6","esMwtwO2YvKtkadl"],"_id":"CiRN2Cw3Fkrpxl2J"}
-{"ip":"127.0.0.1","votes":["eqbpZXRM1aTyEuRx","gGJGnotM5CGSzOP6","esMwtwO2YvKtkadl","mpZJoiewyHb9S8E1"],"_id":"CiRN2Cw3Fkrpxl2J"}
 {"ip":"127.0.0.1","votes":["eqbpZXRM1aTyEuRx","gGJGnotM5CGSzOP6","esMwtwO2YvKtkadl","mpZJoiewyHb9S8E1","nUfZWCqT0aF3oelW"],"_id":"CiRN2Cw3Fkrpxl2J"}
+{"$$indexCreated":{"fieldName":"ip","unique":true,"sparse":false}}
